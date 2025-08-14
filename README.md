@@ -2,7 +2,7 @@
 
 Homebrew tap for [Claude Code Personalities](https://github.com/Mehdi-Hp/claude-code-personalities).
 
-## 🎭 What is Claude Code Personalities?
+## What is Claude Code Personalities?
 
 Dynamic text-face personalities for Claude Code's statusline that change based on Claude's current activity.
 
